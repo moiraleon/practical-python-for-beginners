@@ -1,0 +1,11 @@
+conversion of funciton types can be wrapped
+
+ie.
+
+amount = int(10.6)
+print (amount)
+>>>10
+
+amount = float(10)
+print (amount)
+>>>10.0
